@@ -8,8 +8,13 @@
  the blynk library allows for easy use of virtual pins withint he blynk library, as well as a scheduling interface, an RTC module.
  This all culminates to a thermostat scheduler
  
+ ![alt text](https://mail.google.com/mail/u/0?ui=2&ik=03b31984a7&attid=0.1&permmsgid=msg-f:1690871685760134751&th=17772ed6ee7fae5f&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8pis7LAuDX68zWHJ7Ghby36S4v7kV1ZVGqKrxEDZvAtcy7rj3vNH0zht6759JZcVJz_vxXX0Hjvv2UsbFNc76YBg56OQESliKCNm5nMLiYdVmcSkNxnw1iK4c&disp=emb)
+ 
+ 
  
  
  //TODO
 Houskeeping: (1)refactor the c++ code(very hard to read)  (2)migrate from prototyping platform to a custom android app to learn more about building apps and TCP/IP, networking, interfacing with microcontrollers.
 Future features: a money saving feature that turns the heat/ac low when known mobile devices have left the network(no one is home).
+
+
