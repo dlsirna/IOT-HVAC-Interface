@@ -28,6 +28,6 @@
 Houskeeping: (1)refactor the c++ code(very hard to read)  (2)migrate from prototyping platform to a custom android app to learn more about building apps and TCP/IP, networking, interfacing with microcontrollers.
 Future features: a money saving feature that turns the heat/ac low when known mobile devices have left the network(no one is home).
 
-**hope you enjoyed lokking at this project, there is risk in using a hvac interface especially with small children, some issue may cause the heat to be stuck or any other number of things could happen, YOU SHOULD NOT IMPLEMENT THIS PROJECT. 
+**hope you enjoyed lokking at this project, there is risk in using a hvac interface especially with small children, some issue may cause the heat to be stuck or any other number of things could happen, YOU SHOULD NOT IMPLEMENT THIS PROJECT. For educational purposes only. Thank you!
 
 
