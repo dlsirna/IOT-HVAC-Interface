@@ -12,7 +12,7 @@
  
 
  
- <img src="https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/Blynk%20interface.png" alt="drawing" width="200" height= "200"/>
+ <img src="https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/Blynk%20interface.png" alt="drawing" width="400" height= "600"/>
  
  
  //TODO
