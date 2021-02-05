@@ -10,7 +10,7 @@
  the blynk library allows for easy use of virtual pins withint he blynk library, as well as a scheduling interface, an RTC module.
  This all culminates to a thermostat scheduler
  
- ![](https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/Blynk%20interface.png =250x250)
+ ![alt text](https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/Blynk%20interface.png | height = 200)
  
  
  
