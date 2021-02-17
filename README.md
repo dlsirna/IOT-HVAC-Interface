@@ -5,7 +5,7 @@
  
  <img src="https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/prototype%20of%20thermostat.png" alt="drawing" width="500" height= "600"/>
   
- The application interface is currently protyped using Blynk https://blynk.io/) 
+ The application interface is currently protyped using Blynk https://blynk.io/
  the blynk library allows for easy use of virtual pins withint he blynk library, as well as a scheduling interface, an RTC module.
  This all culminates to a thermostat scheduler.
  
