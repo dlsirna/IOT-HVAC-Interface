@@ -14,8 +14,8 @@ char auth[] = "YOUR BLYNK TOKEN HERE";
 
 
 // Set password to "" for open networks.
-char ssid[] = "12345";
-char pass[] = "ligma123";
+char ssid[] = "YOUR Network name HERE";
+char pass[] = "Your Password";
 BlynkTimer timer;
 WidgetLCD lcd(V1);
 long endTimeInSecs;
