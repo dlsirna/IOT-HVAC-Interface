@@ -17,7 +17,7 @@
  
  <img src="https://github.com/dlsirna/IOT-HVAC-Interface/blob/main/Blynk%20interface.png" alt="drawing" width="300" height= "600"/>
  <header>
- Challenge:
+ 
 
  
  
